@@ -17,8 +17,8 @@ Um sistema de login simples utilizando Flask. Este projeto inclui um formulário
 ## Como Executar o Projeto 🏃  
 1. **Clone o repositório**  
 ```bash  
-git clone https://github.com/seu-usuario/nome-do-repositorio.git  
-cd nome-do-repositorio  
+git clone https://github.com/Alexandreesantos/PassManager-.git  
+cd PassManager- 
 
 python -m venv venv  
 source venv/bin/activate  # (Linux/Mac)  
